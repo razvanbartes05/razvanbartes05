@@ -3,6 +3,7 @@
 This is a simple project that helps you get an idea of the temperature in your room. If the temperature is higher than 24 degrees then a red LED will light up and if they are below 24 degrees then a blue LED will light up.
 
 ## Screenshots 
+![Untitled](https://user-images.githubusercontent.com/81095572/165764384-723b35fb-683d-4ee2-a6a5-8e94296ab412.png)
 
 ## Schematics 
 
